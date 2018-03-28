@@ -1,0 +1,4 @@
+# mybatis逆向工程源代码
+eclipse开发环境下的mybatis逆向工程
+1.只需要简单的更改配置文件里面的数据库连接等基本信息
+2.运行main方法生成pojo类和mapper类
